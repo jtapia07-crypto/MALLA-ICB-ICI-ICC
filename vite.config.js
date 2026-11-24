@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/mallas-ufro/',
+  base: '/MALLA-ICB-ICI-ICC/',
 })
